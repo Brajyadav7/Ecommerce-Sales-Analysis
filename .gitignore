@@ -40,3 +40,8 @@ Thumbs.db
 
 # Data files (optional - uncomment if you don't want to commit large data files)
 # *.csv
+
+# Web Dashboard build artifacts
+web/node_modules/
+web/dist/
+.vite/
